@@ -1,4 +1,3 @@
-# rnntextclassification
 Text classification with LSTM
 
 python version 3.6.9
